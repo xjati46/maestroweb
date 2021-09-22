@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './mswim.png';
 import './App.css';
 
 function App() {
@@ -7,15 +8,33 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Website under construction!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://wa.me/6285624382224"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noreferrer"
         >
-          Learn React
+          Hubungi Kami
+        </a>
+        <a
+          className="App-link"
+          href="https://maestro-admin-606c4.web.app/"
+        >
+          Admin
+        </a>
+        <a
+          className="App-link"
+          href="https://maestro-coach.web.app/"
+        >
+          Pelatih
+        </a>
+        <a
+          className="App-link"
+          href="#"
+        >
+          Siswa
         </a>
       </header>
     </div>
